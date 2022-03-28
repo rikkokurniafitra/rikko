@@ -1,0 +1,2 @@
+# rikko
+tugas 1
